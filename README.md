@@ -1,2 +1,2 @@
 # Coursera_Cappstone
-Capstone Project for IBM Data Science Course on COursera
+Capstone Project for IBM Data Science Course on Coursera
